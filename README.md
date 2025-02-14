@@ -106,6 +106,8 @@ https://gblfy.blog.csdn.net/article/details/117636550
 
 <image src="https://wansen.cloud/group1/default/20231227/18/46/4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227184637.jpg?download=0" alt="微信群" width="300"/>
 
+### Email:  
+463805737@qq.com
 ## 好书推荐
 大家在使用本项目时，推荐结合贺波老师的书[《深入Activiti流程引擎：核心原理与高阶实战》](https://item.m.jd.com/product/13928958.html?gx=RnAomTM2bmCImZxDqYAkVCoIHuIYVqc)，这本书对系统学习和深入掌握Activiti/Flowable的用法非常有帮助。
 
